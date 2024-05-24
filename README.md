@@ -9,7 +9,7 @@ Learn Code Trade Repeat.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b> XTS, MoneyMaker, algo trading. </b>
-- 🌱 I’m currently learning <b> Docker </b>
+- 🌱 I’m currently learning <b> Docker, Design Patterns </b>
 - 👯 I’m looking to collaborate on <b> fintech or HFT alfo trading. </b>
 - 🤔 I’m looking for help with </b> HFT trading. </b>
 - 💬 Ask me about <b>python, stocks and HFT </b>
